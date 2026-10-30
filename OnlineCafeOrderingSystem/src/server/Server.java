@@ -5,10 +5,7 @@
  */
 package server;
 
-/**
- *
- * @author user
- */
+
 public class Server {
-    
+    public void socketConnect(){}; //sdasdasdasdas
 }
