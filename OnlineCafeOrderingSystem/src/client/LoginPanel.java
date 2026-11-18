@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package client;
 
-/**
- *
- * @author user
- */
-public class LoginPanel {
-    
+import javax.swing.*;
+
+public class LoginPanel extends JPanel {
+    public LoginPanel(ClientGUI parent) { 
+        add(new JLabel("Login Screen (Under Construction)"));
+    }
 }
